@@ -76,6 +76,12 @@ npm start
 3. Set environment variables in the Startup tab
 4. Click Start
 
+<p align="center">
+  <a href="https://dashboard.katabump.com/auth/login#14aeb2">
+    <img src="https://img.shields.io/badge/Deploy%20on-KataBump-5B4B8A?style=for-the-badge&logo=rocket&logoColor=white" alt="Deploy on KataBump">
+  </a>
+</p>---
+
 ### Option 2 — Railway (Free tier)
 1. Push code to GitHub
 2. Connect repo on [railway.app](https://railway.app)
